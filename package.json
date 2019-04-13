@@ -6,5 +6,10 @@
     "mongose": "^0.0.2-security",
     "multer": "^1.4.1",
     "socket.io": "^2.2.0"
-  }
+  },
+  "name": "week-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinaum8 <vinaumpt@gmail.com>",
+  "license": "MIT"
 }
